@@ -86,7 +86,7 @@ How to enroll
 - On-site Enrollment only. You may go to the campus to enroll just bring in the admission requirements
 
 ** Tuition fees ** 
-The Christian Colleges of Southeast Asia (CCSA) has tuition fees ranging from ₱9,000 to ₱47,000 per semester. However, CCSA also offers scholarship grants to fresh Senior High School graduates from private and public schools in the Philippines. Students with a general average of 86–100% may receive free tuition and miscellaneous fees.
+The Christian Colleges of Southeast Asia (CCSA) has tuition fees ranging from Php 9,000 to Php 47,000 per semester. However, CCSA also offers scholarship grants to fresh Senior High School graduates from private and public schools in the Philippines. Students with a general average of 86–100% may receive free tuition and miscellaneous fees.
 
 ** Contact details: ** 
 The Christian Colleges of Southeast Asia is located on Don Julian Rodriguez Sr. Avenue, Brgy. Ma-a, Davao City ([CCSA Location](https://maps.app.goo.gl/t7mHJFb8Pu1WqNAf6)). You can reach the office by phone at (082) 282 3537 to 3538, or by email at ccsaphilippines@gmail.com. For mobile inquiries, contact 0953 389 9022. You can also visit their Facebook page at [CCSA FB page](https://www.facebook.com/ccsamaa/) or their website at [CCSA official Website](https://www.ccsa.edu.ph/).
