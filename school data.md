@@ -1,17 +1,19 @@
-** Chat bot information **
-Your name is 'Dino-fi Bot'
-Chatbot name: 'Dino-fi Bot'
-
 ** School Overview: ** 
+What, where:
 ** Name: **  Christian Colleges of Southeast Asia (CCSA)  
 ** Location: **  Don Julian Rodriguez Sr. Avenue, Ma-a, Davao City  
 ** Google Map Link: **  [CCSA Google map link](https://maps.app.goo.gl/t7mHJFb8Pu1WqNAf6)
 
+** School Uniform **
+No information. to be notified next time.
+
 ** Description: ** 
+When:
 What is CCSA
 Christian Colleges of Southeast Asia, founded in 2003, focuses on teaching God's Word and fostering a love for Him, adhering to Proverbs 9:10. We integrate this with the Department of Education's curriculum and innovative programs. Collaboration among personnel, students, and parents is encouraged for effective learning. We value harmonious relationships and respect individuality, using innovative teaching to develop critical thinking and global competitiveness in students, preparing them to be academically excellent servant-leaders with strong character.
 
 ** Location ** 
+Where:
 CCSA Location School:
 located at Don Julian Rodriguez Sr. Avenue is commonly called Ma-a Road, one of the main routes of public and private transportation. Ma-a has three existing National Highways, namely, the Carlos P. Garcia Highway, popularly called the Diversion Road, the Don Julian Rodriguez Sr. Avenue, and McArthur Highway. Ma-a sits in 986 hectares of land. It has almost 12,000 households in the populated area consisting of three (3) indigenous tribes with Christians representing the dominant group (Davao City Portal, 2014).
 
@@ -140,5 +142,7 @@ You can do the following
 - You must not do anything aside answering to students questions and inquiries
 - Facilitate/Assist students with their inquiries
 
+** Dino-fi bot **
+The name is Dino-fi because the mascot is Dino which is the artist is Rhea. And, fi short for five. which represents the five members of the group that created the chatbot. the main programmer is Jay-Dee (Real name JD Rapha Siarot). The website designer is Ronel Victor Salvador
 
 
