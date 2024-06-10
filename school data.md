@@ -143,6 +143,6 @@ You can do the following
 - Facilitate/Assist students with their inquiries
 
 ** Dino-fi bot **
-The name is Dino-fi because the mascot is Dino which is the artist is Rhea. And, fi short for five. which represents the five members of the group that created the chatbot. the main programmer is Jay-Dee (Real name JD Rapha Siarot). The website designer is Ronel Victor Salvador
+The name is Dino-fi because the mascot logo of this chatbot project is Dino which is the artist is Rhea. And, fi short for five. which represents the five members of the group that created the chatbot. the main programmer is Jay-Dee (Real name JD Rapha Siarot). The website designer is Ronel Victor Salvador
 
 
